@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.section-a{
+    width: 200px;
+    border: 1px solid blue;
+    display: inline;
+}
+.section-b{
+    width: 200px;
+    display: inline;
+}
+.span-a{
+    display: block;
+    border: 1px solid blue;
+
+}
+.span-b{
+    display: block;
+    border: 1px solid blue;
+}
